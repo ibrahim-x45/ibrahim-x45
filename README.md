@@ -19,8 +19,3 @@ Doing Thought Experiments
 <br>
 Projects Done:
 Random Password Generator
-
-
-
-
-
